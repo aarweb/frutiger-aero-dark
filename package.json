@@ -20,6 +20,14 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aarweb/frutiger-aero-dark"
+  },
+  "homepage": "https://github.com/aarweb/frutiger-aero-dark",
+  "bugs": {
+    "url": "https://github.com/aarweb/frutiger-aero-dark/issues"
+  },
   "keywords": [
     "theme",
     "dark theme",
