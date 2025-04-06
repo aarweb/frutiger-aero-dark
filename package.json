@@ -1,0 +1,33 @@
+{
+  "name": "frutiger-aero-dark",
+  "displayName": "Frutiger Aero Dark",
+  "description": "A dark theme inspired by the glossy Frutiger Aero style.",
+  "version": "0.0.1",
+  "publisher": "AarMagic",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frutiger Aero Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frutiger Aero Dark-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "frutiger",
+    "aero",
+    "glossy",
+    "visual studio code",
+    "vscode"
+  ],
+  "icon": "icon.png"
+}
