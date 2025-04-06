@@ -54,25 +54,25 @@ Beyond syntax, the theme customizes key parts of the VS Code interface:
 
 ### ☕ Java
 
-![Java Screenshot](public/img/java.png)
+![Java Screenshot](https://raw.githubusercontent.com/aarweb/frutiger-aero-dark/refs/heads/main/public/img/java.png)
 
 ---
 
 ### 🐍 Python
 
-![Python Screenshot](public/img/python.png)
+![Python Screenshot](https://raw.githubusercontent.com/aarweb/frutiger-aero-dark/refs/heads/main/public/img/python.png)
 
 ---
 
 ### ⚛️ React (JSX/TSX)
 
-![React Screenshot](public/img/react.png)
+![React Screenshot](https://raw.githubusercontent.com/aarweb/frutiger-aero-dark/refs/heads/main/public/img/react.png)
 
 ---
 
 ### 💎 Ruby
 
-![Ruby Screenshot](public/img/ruby.png)
+![Ruby Screenshot](https://raw.githubusercontent.com/aarweb/frutiger-aero-dark/refs/heads/main/public/img/ruby.png)
 
 ---
 
