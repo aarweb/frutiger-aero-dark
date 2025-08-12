@@ -22,17 +22,24 @@
 
 Frutiger Aero Dark has full support for the most popular programming and scripting languages:
 
-| Language         | Supported |
-|------------------|-----------|
-| JavaScript / TypeScript | ✅ |
-| JSX / TSX (React)        | ✅ |
-| HTML / CSS / SCSS        | ✅ |
-| PHP / Python / Rust      | ✅ |
-| Java / C# / Go           | ✅ |
-| SQL / JSON / YAML        | ✅ |
-| Bash / Shell / Dockerfile| ✅ |
-| Markdown                 | ✅ |
-| Vue / Astro / Laravel Blade | ✅ |
+| Language                    | Supported |
+| --------------------------- | --------- |
+| JavaScript / TypeScript     | ✅         |
+| JSX / TSX (React)           | ✅         |
+| HTML / CSS / SCSS           | ✅         |
+| PHP / Python / Rust         | ✅         |
+| Java / C# / Go              | ✅         |
+| SQL / JSON / YAML           | ✅         |
+| Bash / Shell / Dockerfile   | ✅         |
+| Markdown                    | ✅         |
+| Vue / Astro / Laravel Blade | ✅         |
+| C / C++                     | ✅         |
+| Kotlin / Swift              | ✅         |
+| Dart / Scala                | ✅         |
+| Lua / R                     | ✅         |
+| PowerShell                  | ✅         |
+| XML                         | ✅         |
+| Svelte / GraphQL            | ✅         |
 
 ---
 
@@ -58,6 +65,12 @@ Beyond syntax, the theme customizes key parts of the VS Code interface:
 
 ---
 
+### 🐘 PHP
+
+![PHP Screenshot](https://raw.githubusercontent.com/aarweb/frutiger-aero-dark/refs/heads/main/public/img/php.png)
+
+---
+
 ### 🐍 Python
 
 ![Python Screenshot](https://raw.githubusercontent.com/aarweb/frutiger-aero-dark/refs/heads/main/public/img/python.png)
@@ -80,11 +93,22 @@ Beyond syntax, the theme customizes key parts of the VS Code interface:
 
 ## 📦 Installation
 
-### From Marketplace (coming soon)
-Search for `Frutiger Aero Dark` in the [Extensions panel](vscode:extension).
+### From Marketplace
+Install from the Visual Studio Marketplace:
+
+- Marketplace page: https://marketplace.visualstudio.com/items?itemName=AarMagic.frutiger-aero-dark
+- Open in VS Code: vscode:extension/AarMagic.frutiger-aero-dark
 
 ### Manual Install
 
-```bash
-vsce package
-code --install-extension frutiger-aero-dark-0.0.1.vsix
+If you prefer the CLI:
+
+```powershell
+code --install-extension AarMagic.frutiger-aero-dark
+```
+
+Or from a VSIX file (offline):
+
+```powershell
+code --install-extension frutiger-aero-dark-0.0.2.vsix
+```
